@@ -2,7 +2,7 @@
 public class Futuro {
     
     
-    static String veredicto(String valor1, String valor2){
+    private static String veredicto(String valor1, String valor2){
     
         if(valor1.equals(valor2)){
         return "No está mal, pero se puede mejorar";
